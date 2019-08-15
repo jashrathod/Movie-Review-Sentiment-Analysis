@@ -22,7 +22,7 @@ In this project, a set of eight models were trained. The training dataset was in
 
 1. Original Naive Bayes Classifier
 2. Multinomial Naive Bayes (Sklearn Classifier)
-3. Binomial Naive Bayes (Sklearn Classifier)
+3. Bernoulli Naive Bayes (Sklearn Classifier)
 4. Logistic Regression 
 5. SGD Classifier
 6. Support Vector Classifier (SVC)  (Very poor performance hence rejected)
